@@ -1,13 +1,13 @@
-global.you = ['6285850539404'] 
+global.you = ['6281333154367'] 
 //Developer Bot
 global.namebot = 'oscar'
-global.rowner = ['6285850539404', '16199961931'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
+global.rowner = ['6281333154367'] // Real Owner Bot
+global.owner = ['6281333154367'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
-global.helper = ['6285850539404']
+global.helper = ['6281333154367']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'zekais',
-  'https://api.lolhuman.xyz': 'pelitbetsihluwh',
+  'https://api.lolhuman.xyz': 'ee99d6df5f8c5eaf7667a90d',
 }
 
 global.socket = {
@@ -77,17 +77,17 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 //global sosialmedia oscar
-global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/JarotOffc?tab=repositories"
+global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/rizalmhmd"
 global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
 global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/Jarotr_'
+global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/zallzall02'
 global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@Jarotoffc'
 global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG'
 global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/LKxOImbU62e9sgai6Ow2Ef'
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.author = '𝚉𝚊𝚕𝚕'
+global.wm = '© 𝚉𝚊𝚕𝚕'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
