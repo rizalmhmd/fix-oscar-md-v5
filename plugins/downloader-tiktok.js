@@ -7,7 +7,7 @@ let res = await fetch(`https://zenzapis.xyz/downloader/tiktok?apikey=f9fccfcff1&
 let json = await res.json()
     await conn.sendButtonVid(m.chat, json.result.download.nowm, 'Nih Om', wm, 'ᴀᴜᴅɪᴏ', `.ttaudio ${args}`, m)
 }
-handler.command = /^ttnown$/i
+handler.command = /^ttnowm$/i
 handler.tags = ['downloader']
 handler.help = ['ttnowm']
 handler.limit = false
