@@ -5,7 +5,7 @@ if (!args[0]) throw 'Uhm..url nya mana?'
 let res = await fetch(`https://api.zeeoneofc.xyz/api/downloader/tiktok?url=${args[0]}&apikey=uNdFM7fR`)
     if (!res.ok) throw await res.text()
 let json = await res.json()
-    await conn.sendButtonVid(m.chat, json.result.nowm, 'Nih Om', wm, 'ᴀᴜᴅɪᴏ', `.tomp3`, m)
+    await conn.sendButtonVid(m.chat, json.result.nowm, 'Nih Om', wm, 'ᴀᴜᴅɪᴏ', `.ttaudio ${args}`, m)
 }
 handler.command = /^tiktok$/i
 handler.tags = ['downloader']
